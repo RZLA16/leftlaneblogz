@@ -1,0 +1,19 @@
+{
+  "name": "leftlaneblogz",
+  "version": "1.0.0",
+  "description": "automotive news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RZLA16/leftlaneblogz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RZLA16/leftlaneblogz/issues"
+  },
+  "homepage": "https://github.com/RZLA16/leftlaneblogz#readme"
+}
